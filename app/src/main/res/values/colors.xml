@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#132530</color>
+    <color name="bot_back_color">#013249</color>
+    <color name="user_back_color">#017501</color>
+    <color name="fab_color">#023C36</color>
 </resources>

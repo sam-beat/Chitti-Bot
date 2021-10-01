@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Chitti</string>
+    <string name="enter_message">How can I help ?</string>
 </resources>
